@@ -26,7 +26,7 @@ Users should be able to:
 ![Web capture_10-7-2021_35425_](https://user-images.githubusercontent.com/71822355/125149815-18561680-e0f0-11eb-9212-35605a69c438.jpeg)
 
 ### Links
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [JavaScript Counter](https://ajavascriptcounter.netlify.app/)
 
 ## My process
 
